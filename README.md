@@ -8,3 +8,4 @@ task4,5 ![image alt](https://github.com/balajitharun35-netizen/script-controlled
 
 
 task6 ![image alt](https://github.com/balajitharun35-netizen/script-controlled-ACL---restrict-record-access-based-on-field-value/blob/68d6684756c9e27779cf893407ca7679d641e67f/tsk6.png)
+task7 ![image alt](https://github.com/balajitharun35-netizen/script-controlled-ACL---restrict-record-access-based-on-field-value/blob/6e29a112de666c1bcd872545d6f32ef0292ae7eb/task7.png)
